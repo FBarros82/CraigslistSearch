@@ -23,8 +23,7 @@ searchTerms = [
 ]
 
 urls = {
-    'Gigs': 'https://{0}.craigslist.org/search/ggg?query={1}&sort=date',
-    'Jobs (part-time, contact, remote)': 'https://{0}.craigslist.org/search/sof?query={1}&is_telecommuting=1&employment_type=2&employment_type=3&sort=date'
+    'For Sale (cta)': 'https://{0}.craigslist.org/search/cta?'
 }
 
 link = '<li><a href="{0}" target="_blank">{1}</a></li>'
